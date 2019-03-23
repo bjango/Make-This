@@ -2,7 +2,7 @@
 
 -----
 
-- [Community Challenges](https://github.com/bjango/Make-This/blob/master/Community%20Challenges.md)
+- [Community Challenges](https://github.com/bjango/Make-This/blob/master/Docs/Community%20Challenges.md)
 
 -----
 
