@@ -12,7 +12,7 @@ If you’d like your solution to be included in this repository, please submit a
 
 Description to come.
 
-**[View all solutions](/Community%20Challenges/002%20Double%20Donut/)**
+[**View all solutions**](/Community%20Challenges/002%20Double%20Donut/)
 
 -----
 
@@ -24,4 +24,4 @@ Try making this, so it’s all still fully vector and editable. Use whichever de
 
 Rules: No bitmaps. Be careful about the diagonal edge — you can’t just build the halves with different layers, or use a gradient for it. Use any tool you’d like. Sketch? Photoshop? CSS? Great! Anything goes.
 
-**[View all solutions](/Community%20Challenges/001%20Blurry%20Donut/)**
+[**View all solutions**](/Community%20Challenges/001%20Blurry%20Donut/)
