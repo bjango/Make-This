@@ -1,14 +1,26 @@
 # Make This community challenges
 
+A collection of somewhat tricky artwork, intended as a fun design challenge, and an opportunity to collectively learn and get the most out of our tools.
+
 If you’d like your solution to be included in this repository, please submit artwork to [@marcedwards](https://twitter.com/marcedwards) via Twitter. All submissions will be credited. Please note that this repository uses a BSD license, which allows others to reuse and remix as they see fit.
 
 -----
 
-### 002 Wrecked Circles
+### 003 That’s No Moon
+
+![](https://github.com/bjango/Make-This/blob/master/Docs/Images/Community%20Challenges/003-thats-no-moon.png)
+
+Try making this, so it’s fully vector and editable. Use whichever design tool you’d like. Rules: No bitmaps. Fewer layers and cleaner structure is better. Checkerboard is just there to show transparency.
+
+[**View all solutions**](/Community%20Challenges/003%20That’s%20No%20Moon/)
+
+-----
+
+### 003 Wrecked Circles
 
 ![](https://github.com/bjango/Make-This/blob/master/Docs/Images/Community%20Challenges/002-wrecked-circles.png)
 
-Try making this, so it’s fully vector and editable. Use whichever design tool you’d like. The checkerboard is just there to show transparency.Rules: No bitmaps. Fewer layers and cleaner structure is better.
+Try making this, so it’s fully vector and editable. Use whichever design tool you’d like. Rules: No bitmaps. Fewer layers and cleaner structure is better. Checkerboard is just there to show transparency.
 
 [**View all solutions**](/Community%20Challenges/002%20Wrecked%20Circles/)
 
@@ -18,8 +30,6 @@ Try making this, so it’s fully vector and editable. Use whichever design tool 
 
 ![](https://github.com/bjango/Make-This/blob/master/Docs/Images/Community%20Challenges/001-blurry-donut.png)
 
-Try making this, so it’s fully vector and editable. Use whichever design tool you’d like. The checkerboard is just there to show transparency.
-
-Rules: No bitmaps. Be careful about the diagonal edge — you can’t just build the halves with different layers, or use a gradient for it. Use any tool you’d like. Sketch? Photoshop? CSS? Great! Anything goes.
+Try making this, so it’s fully vector and editable. Use whichever design tool you’d like. Rules: No bitmaps. Fewer layers and cleaner structure is better. Checkerboard is just there to show transparency. Be careful about the antialiasing on the diagonal edge.
 
 [**View all solutions**](/Community%20Challenges/001%20Blurry%20Donut/)
