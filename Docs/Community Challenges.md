@@ -6,6 +6,16 @@ If you’d like your solution to be included in this repository, please submit a
 
 -----
 
+### 004 Gradient Gratification
+
+![](https://github.com/bjango/Make-This/blob/master/Docs/Images/Community%20Challenges/004-gradient-gratification.png)
+
+Try making this, so it’s fully vector and editable. Use whichever design tool you’d like. Rules: The colour for each corner needs to be able to be set precisely. No bitmaps. Fewer layers and cleaner structure is better.
+
+[**View all solutions**](/Community%20Challenges/004%20Gradient%20Gratification/)
+
+-----
+
 ### 003 That’s No Moon
 
 ![](https://github.com/bjango/Make-This/blob/master/Docs/Images/Community%20Challenges/003-thats-no-moon.png)
@@ -16,7 +26,7 @@ Try making this, so it’s fully vector and editable. Use whichever design tool 
 
 -----
 
-### 003 Wrecked Circles
+### 002 Wrecked Circles
 
 ![](https://github.com/bjango/Make-This/blob/master/Docs/Images/Community%20Challenges/002-wrecked-circles.png)
 
