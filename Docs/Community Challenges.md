@@ -10,7 +10,7 @@ If you’d like your solution to be included in this repository, please submit a
 
 ![](https://github.com/bjango/Make-This/blob/master/Docs/Images/Community%20Challenges/005-double-shadow.png)
 
-Try making this, so the text is still fully editable. Please note that the area between the blue and red is transparent. Use whichever design tool you’d like. The checkerboard is just there to show transparency. Rules: Text must be editable. No bitmaps. Fewer layers and cleaner structure is better.
+Try making this, so the text is still fully editable. Please note that the area between the blue and red is transparent. Use whichever design tool you’d like. The checkerboard is just there to show transparency. Rules: Text must be editable. No bitmaps. Fewer layers and cleaner structure is better.
 
 [**View all solutions**](/Community%20Challenges/005%20Double%20Shadow/)
 
